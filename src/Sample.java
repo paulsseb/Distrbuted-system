@@ -11,6 +11,10 @@ import java. util.*;
         al.add("B");
         al.add("D");
         al.add("F");
+//added during git test!!!!!
+        al.add("G");
+        al.add("H");
+        al.add("I");
         al.add(1, "A2");
         al.add(0, "B2");
         System.out.println("Size of al after additions: " + al.size());
